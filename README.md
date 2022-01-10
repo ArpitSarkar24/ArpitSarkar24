@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArpitSarkar24
+- 👋 Hi, I’m @ArpitaTheAnalyst24
 - 👀 I’m interested in Python,SQL,Visualization Tools..
 - 🌱 I’m currently learning CSS...
 - 💞️ I’m looking to collaborate on ..Many Of You for Working in New Projects.
